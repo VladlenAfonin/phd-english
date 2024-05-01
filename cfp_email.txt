@@ -1,0 +1,18 @@
+Dear Conference Organizers,
+
+I am writing to express my strongest interest in presenting my research at the upcoming New Technologies of Interdisciplinary Research Conference. The field of my study lies at the intersection of cryptography and machine learning, and I have been actively exploring the new possibilities of ensuring confidentiality of model training process.
+
+In my paper I present a novel method for proving the validity of training process for models which use gradient boosting techniques. I am confident that this work aligns well with the themes of the conference and would contribute meaningfully to the conversations taking place.
+
+Please find the necessary details below and my abstract attached.
+
+Author's name: Vladlen Afonin.
+Affiliation: National Research Nuclear University MEPhI (NRNU MEPhI), Institute of Cyber Intelligence Systems (ICIS), Department of Cryptology and Cybersecurity.
+Title of the paper: zkBoost: Efficient Zero-Knowledge Proofs of Gradient Boosting training.
+Preferred topic: Cryptography.
+
+Please feel free to contact me if you require any additional information or clarification regarding my submission.
+
+Yours faithfully,
+Vladlen Afonin
+

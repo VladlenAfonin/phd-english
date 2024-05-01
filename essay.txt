@@ -1,0 +1,10 @@
+What are some of the most prominent contributions to your scientific field?
+
+The area of zero-knowledge cryptography is now going through the stage of rapid changes and continuously emerging inventions. Nevertheless, in my opinion, it is possible to identify two of the most prominent contributions to the field, which are briefly discussed below.
+
+It has always fascinated me how we are able to prove if the machine possesses some information when it cannot simply provide it to us. This was one of the most important questions to be answered in order to provide theoretical background for most of the research that was yet to come in the late 1980s. The answer came in the form of the notion of knowledge soundness, which is a protocol property ensuring that a party indeed provably possesses a piece of data.
+
+Another equally remarkable practical result is the invention of the sum-check protocol, which is the heart of most of the state-of-the-art zero-knowledge protocols used today. At its core the protocol is used to prove that a sum of all values of a chosen polynomial over a finite field adds up to a certain constant. The basic idea of the sum-check protocol revolves around the ingenious observation that in order for two polynomials to be identical with high probability it is sufficient for them to be equal at just a single random point.
+
+In conclusion, I would like to note that it is impossible to do justice to such a young and rapidly developing field of knowledge. However, the two contributions discussed are in my opinion some of the most prominent and even groundbreaking.
+
